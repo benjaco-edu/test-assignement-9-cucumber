@@ -15,7 +15,7 @@ And the tested class can be seen at src/Discount.js
 
 ```
 > npm test
-    > test-assingment-9-company-x@1.0.0 test /usr/src/app
+    > test-company-x@1.0.0 test /usr/src/app
     > cucumber-js
 
     ........................................
