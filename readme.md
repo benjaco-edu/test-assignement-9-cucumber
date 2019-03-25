@@ -1,4 +1,4 @@
-# Test assignment 8 - Gherkin test
+# Test exercise - Gherkin test
 
 https://github.com/datsoftlyngby/soft2019spring-test/blob/master/Slides/09%20BDD.pdf
 
@@ -31,4 +31,6 @@ Run `npm install` and the the shown commandos (requires node)
 
 Or run it with docker
 
-`sudo docker run --rm bslcphbussiness/test-assignment-9-cucumber`
+`sudo docker build -t test-cucumber .`
+
+`sudo docker run --rm test-cucumber`
